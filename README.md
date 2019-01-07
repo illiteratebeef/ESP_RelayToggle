@@ -2,5 +2,7 @@ This is a program to toggle a pin on and off whenever the device recieved any ki
 
 Bugs fixed: 
 removed old file.writeline formatting
+
+
 To Do:
 Server crashes after ~5 minutes, make it not do that.
